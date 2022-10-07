@@ -1,3 +1,5 @@
+Testando funcionalidades da aplicação através de testes automatizados
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
