@@ -1,4 +1,4 @@
-# React-tests
-Fazendo testes com React
-Testando funcionalidade da aplicação através de testes automatizados.
+# React-tests<br>
+Fazendo testes com React<br>
+Testando funcionalidade da aplicação através de testes automatizados.<br>
 Testes descritivos e consistentes.
